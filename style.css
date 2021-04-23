@@ -6,7 +6,7 @@
 }
 
 header {
-    background-image: url('imgs/bg-iss013e78960.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('imgs/bg-iss013e78960.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
