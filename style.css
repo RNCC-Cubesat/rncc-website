@@ -9,7 +9,7 @@ header {
     background-image: url('imgs/bg-iss013e78960.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: cover;
     background-color: #16191D;
     height:100vh;
 }
