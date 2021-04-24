@@ -5,12 +5,16 @@
     color: rgb(243, 243, 243);
 }
 
+body {
+    background-color: #16191D;
+
+}
+
 header {
     background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('imgs/bg-iss013e78960.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #16191D;
     height:100vh;
 }
 
