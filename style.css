@@ -53,7 +53,7 @@ h1 {
     align-items: top;
     margin-top: 5px;
     /* background-color: #0005; */
-    font-size: 1rem;
+    font-size: 1.33rem;
 }
 
 #d_0nav {
@@ -104,6 +104,7 @@ nav ul li a {
     display: flex;
     justify-content: space-around;
 }
-.sidebyside > * {
-     margin: 5px;
+
+.sidebyside>* {
+    margin: 5px;
 }
