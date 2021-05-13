@@ -17,6 +17,14 @@ body {
     color: #444;
 }
 
+h2 {
+    line-height: 60px;
+}
+
+p {
+    line-height: 30px;
+}
+
 header {
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imgs/bg-iss013e78960.jpg');
     background-repeat: no-repeat;
