@@ -99,3 +99,11 @@ nav ul li a {
     color: #fff;
     padding: 30px;
 }
+
+.sidebyside {
+    display: flex;
+    justify-content: space-around;
+}
+.sidebyside > * {
+     margin: 5px;
+}
