@@ -26,7 +26,7 @@ p {
 }
 
 header {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imgs/bg-iss013e78960.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('imgs/bg-iss013e78960.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -103,6 +103,7 @@ nav ul li a {
 .sidebyside {
     display: flex;
     justify-content: space-around;
+    background-color: #101316;
 }
 
 .sidebyside>* {
