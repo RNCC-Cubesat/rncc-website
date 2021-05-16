@@ -47,6 +47,10 @@ h1 {
     size: 100%;
 }
 
+h3 {
+    font-size: 1.2em;
+}
+
 #p_0subtitle {
     display: flex;
     justify-content: center;
