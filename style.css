@@ -156,6 +156,8 @@ label { display: inline; }
     .toggle > img {
         height: 100%;
         margin: 25px;
+        transform: rotate(0deg);
+        transition: transform .3s linear;
     }
     /* .toggle:hover {
         background: #cecece;
@@ -169,6 +171,11 @@ label { display: inline; }
     #menu-toggle-checkbox:checked + label .demo {
         height: 8em;
         transition: height .3s linear;
+    }
+
+    #menu-toggle-checkbox:checked + label .toggle > img {
+        transform: rotate(-90deg);
+        transition: transform .3s linear;
     }
     .menu {
         /* border-radius: 0px;
