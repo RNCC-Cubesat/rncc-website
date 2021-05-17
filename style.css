@@ -25,6 +25,11 @@ p {
     line-height: 30px;
 }
 
+
+/*.abstract {
+    font-size: .9em;
+}*/
+
 header {
     background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('imgs/bg-iss013e78960.jpg');
     background-repeat: no-repeat;
@@ -115,7 +120,7 @@ label {
     align-items: center;
     list-style-type: none;
     z-index: 2;
-    opacity: .9;
+    opacity: 0.95;
     width: 100vw;
 }
 
@@ -139,6 +144,16 @@ label {
 @media screen and (max-width: 600px) {
     .menu li a {
         font-size: 1.25em;
+    }
+    h1 {
+        font-size: 1.75em;
+    }
+    #p_0subtitle {
+        font-size: 1em;
+        text-align: center;
+    }
+    .title {
+        vertical-align: middle;
     }
 }
 
@@ -202,7 +217,7 @@ label {
         /* magic */
         align-self: center;
         /* width: 95%; */
-        opacity: 0;
+        opacity: 0.9;
         visibility: hidden;
         transition: all .3s linear;
     }
