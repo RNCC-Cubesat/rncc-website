@@ -140,7 +140,7 @@ label { display: inline; }
     .toggle {
         clear: both;
         display: block;
-        text-align: center;
+        text-align: right;
         /* font-size: 14px; */
         line-height: 40px;
         cursor: pointer;
