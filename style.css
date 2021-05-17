@@ -198,13 +198,6 @@ label { display: inline; }
     }
 }
 
-/* Style for the currently selected menu item */
-.menu li.current {
-    font-weight: bold;
-    pointer-events: none; /* this disables the ability to click on the menu link because the user is already on that page. */
-}
-
-
 /* End of Menu Code */
 
 
