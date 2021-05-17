@@ -111,18 +111,18 @@ label {
     /* height: 50px; */
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: flex-end;
     align-items: center;
     list-style-type: none;
     z-index: 2;
     opacity: .9;
-    background-color: black;
     width: 100vw;
 }
 
 .menu li {
     padding: 10px 15px;
-    text-align: center
+    text-align: center;
+    margin: 1vw;
 }
 
 .menu li a {
@@ -180,6 +180,7 @@ label {
     #menu-toggle-checkbox:checked+label .demo {
         height: 100vh;
         transition: height .3s linear;
+        background-color: black;
     }
     #menu-toggle-checkbox:checked+label .toggle>img {
         transform: rotate(-90deg);
