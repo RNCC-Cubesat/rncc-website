@@ -15,6 +15,13 @@
     <!-- <meta name="keywords" content=" "> -->
 
     <!--stylesheets-->
+
+    <script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js" crossorigin="anonymous"></script>
+    <noscript>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" crossorigin="anonymous">
+    </noscript>
+
+
     <link rel="stylesheet" a href="style.css">
 
 
@@ -23,13 +30,19 @@
 <body>
     <header>
         <div id="d_0nav">
-            <nav>
-                <ul>
-                    <li><a href="#">Our Mission</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Research</a></li>
-                </ul>
+            <nav class="site-nav">
+                <input type="checkbox" id="menu-toggle-checkbox" />
+                <label for="menu-toggle-checkbox">
+                    <span class="toggle"><i class="fas fa-bars"></i></span>
+                    <ul class="menu demo">
+                        <li><a href="#">Our Mission</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Research</a></li>
+            
+                    </ul>
+                </label>
             </nav>
+
         </div>
         <h1 class="d_2titles" id="h1_0title">
             Resilient Nuclear CubeSat Constellation
