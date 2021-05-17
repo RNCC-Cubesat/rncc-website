@@ -153,6 +153,10 @@ label { display: inline; }
         border-bottom-right-radius: 5px; */
         transition: all .1s linear;
     }
+    .toggle > svg {
+        height: 100%;
+        margin: 25px;
+    }
     /* .toggle:hover {
         background: #cecece;
     } */
