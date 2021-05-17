@@ -153,7 +153,7 @@ label { display: inline; }
         border-bottom-right-radius: 5px; */
         transition: all .1s linear;
     }
-    .toggle > svg {
+    .toggle > img {
         height: 100%;
         margin: 25px;
     }
