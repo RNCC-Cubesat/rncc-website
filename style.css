@@ -62,7 +62,7 @@ h3 {
     align-items: top;
     margin-top: 5px;
     /* background-color: #0005; */
-    font-size: 1.33rem;
+    font-size: 1.2rem;
 }
 
 nav {
@@ -120,7 +120,7 @@ label {
     align-items: center;
     list-style-type: none;
     z-index: 2;
-    opacity: 0.95;
+    opacity: 0.9;
     width: 100vw;
 }
 
@@ -146,7 +146,7 @@ label {
         font-size: 1.25em;
     }
     h1 {
-        font-size: 1.75em;
+        font-size: 1.3em;
     }
     #p_0subtitle {
         font-size: 1em;
@@ -154,6 +154,9 @@ label {
     }
     .title {
         vertical-align: middle;
+    }
+    .site-nav {
+        height: 5vh;
     }
 }
 
