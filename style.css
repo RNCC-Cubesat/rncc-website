@@ -81,6 +81,13 @@ nav {
     height: fit-content;
 } */
 
+@media screen and (max-width: 600px) {
+    #d_1sub {
+        display: none;
+
+    }
+}
+
 
 /* Start of Menu Code
 
