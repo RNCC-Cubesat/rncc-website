@@ -84,7 +84,6 @@ nav {
 @media screen and (max-width: 600px) {
     #d_1sub {
         display: none;
-
     }
 }
 
@@ -148,7 +147,7 @@ label {
 
 /* menu styles for mobile devices below */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .menu li a {
         font-size: 1.25em;
     }
@@ -167,7 +166,7 @@ label {
     }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 800px) {
     .toggle {
         display: block;
         position: relative;
