@@ -131,7 +131,7 @@ label {
     list-style-type: none;
     z-index: 2;
     opacity: 0.9;
-    width: 100vw;
+    /* width: 100vw; */
 }
 
 .menu li {
