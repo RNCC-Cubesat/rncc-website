@@ -85,6 +85,10 @@ nav {
     #d_1sub {
         display: none;
     }
+
+    .sidebyside {
+        flex-direction: column;
+    }
 }
 
 
