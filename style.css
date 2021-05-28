@@ -246,6 +246,10 @@ label {
 
 /* End of Menu Code */
 
+footer {
+    text-align: center;
+}
+
 .sidebyside {
     display: flex;
     justify-content: space-around;
