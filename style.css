@@ -14,7 +14,7 @@
     text-align: center;
     min-height: 1000px;
     align-items: center;
-    background: radial-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 1)), url('imgs/bg-iss013e78960.jpg');
+    background: radial-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1)), url('imgs/bg-iss013e78960.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
