@@ -4,7 +4,7 @@
 
 ## About Us
 
-Remote Nuclear CubeSat Consellation (RNCC) is primarily a cyber-secure communcation infastructure based on a system of created on novel research linked below. A growing need for satellites to increase security has emerged as greater risk of states, organizations, and individual actors desire to commandeer, co-opt, inhibit, or destroy on-orbit capabilities.
+Resilient Nuclear CubeSat Consellation (RNCC) is primarily a cyber-secure communcation infastructure based on a system of created on novel research linked below. A growing need for satellites to increase security has emerged as greater risk of states, organizations, and individual actors desire to commandeer, co-opt, inhibit, or destroy on-orbit capabilities.
 
 The origins of these problems as they relate to space assets are three-fold: first, technology used in space was originally analog and not digital. With the economic benefits, increased capability, and inherent adaptiveness of digital technology, the digital domain is fraught with cyber-criminals who can use low cost equipment to attack space communications, sensors, navigation, and operations.
 
