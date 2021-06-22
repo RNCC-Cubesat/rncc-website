@@ -1,8 +1,4 @@
-## Our Mission
-
-
-
-## About Us
+## Our Mission Draft 
 
 Resilient Nuclear CubeSat Consellation (RNCC) is primarily a cyber-secure communcation infastructure based on a system of created on novel research linked below. A growing need for satellites to increase security has emerged as greater risk of states, organizations, and individual actors desire to commandeer, co-opt, inhibit, or destroy on-orbit capabilities.
 
